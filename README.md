@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @rikard789
+- 👀 I’m interested in:
+  - programming
+- 🌱 I’m currently learning:
+ - machine learning
+ - computer vision
+- 📫 How to reach me:
+  - via email reczko1@gmail.com
