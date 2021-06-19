@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rikard789
 - 👀 I’m interested in:
   - programming
+  - electronics
 - 🌱 I’m currently learning:
  - machine learning
  - computer vision
